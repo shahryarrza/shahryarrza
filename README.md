@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahryarrza
-- 👀 I’m interested in web + android development
-- 🌱 I’m currently learning Kotlin and React
+- 👀 I’m interested in Competitive Programming and ML
+- 🌱 I’m currently learning C++
 - 📫 How to reach me- Contact me +91-7461801538
 
 <!---
